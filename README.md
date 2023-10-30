@@ -13,6 +13,7 @@ Then run the following in CMD. "python main.py" and press enter. You should then
 
 This is a brute force attack and it can take an extremely long time to find an IP:PORT which accepts a request. This is not an Proxy Grabber. This is pretty much finding your own exclusive proxies which many or little people may have access to.
 
+Note: Depending on the amount of RAM/CPU you have you may need to lower the number of proxies to generate per cycle in the GUI. You can tell if your RAM is completely being used up and the code seems stuck. You will need to restart the program and lower the number of proxies to generate per cycle
 
 
 ## License
