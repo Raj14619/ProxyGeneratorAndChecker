@@ -6,7 +6,7 @@ Neither I Say Nor I Promote To Do Anything Illegal. I am in no way reesponsible 
 
 To run the code make sure you have python 3 installed (You can check by opening CMD in windows and typing in python - if you don't get a response or get an error you need to install python)
 
-open up CMD and navigate to the folder where you have the respiratory and install requirements.txt. 
+open up CMD and navigate to the folder where you have the repository and install requirements.txt. 
 Then Use the following code in CMD: "pip install -r requirements.txt" Press enter.
 
 Then run the following in CMD. "python main.py" and press enter. You should then have the GUI open. Make adjustments if you are aware of what you are doing and then click Start.
