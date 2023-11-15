@@ -2,7 +2,7 @@
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES. 
 
-Neither I Say Nor I Promote To Do Anything Illegal. I am in no way reesponsible if you use this program or code maliciously.
+Neither I Say Nor I Promote To Do Anything Illegal. I am in no way responsible if you use this program or code maliciously.
 
 To run the code make sure you have python 3 installed (You can check by opening CMD in windows and typing in python - if you don't get a response or get an error you need to install python)
 
