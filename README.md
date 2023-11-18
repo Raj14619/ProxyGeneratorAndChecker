@@ -11,7 +11,7 @@ Then Use the following code in CMD: "pip install -r requirements.txt" Press ente
 
 Then run the following in CMD. "python main.py" and press enter. You should then have the GUI open. Make adjustments if you are aware of what you are doing and then click Start.
 
-This is a brute force attack and it can take an extremely long time to find an IP:PORT which accepts a request. This is not an Proxy Grabber. This is pretty much finding your own exclusive proxies which many or little people may have access to.
+This is a brute force attack and it can take an extremely long time to find an IP:PORT which accepts a request. This is not a Proxy Grabber. This is for finding your own exclusive proxies which low amount of people may have access to.
 
 Note: Depending on the amount of RAM/CPU you have you may need to lower the number of proxies to generate per cycle in the GUI. You can tell if your RAM is completely being used up if the program seems stuck. If the program gets stuck you will need to restart the program and lower the number of proxies to generate per cycle
 
